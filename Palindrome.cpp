@@ -14,8 +14,8 @@ using namespace std;
 
 int main(){
 
-	  string line;
-	  int counter=0,s=0;
+    string line;
+    int counter=0,s=0;
     cout<<"Enter a line: ";
     getline(cin,line);
     int size = line.length() ;
