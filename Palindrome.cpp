@@ -35,9 +35,9 @@ int main(){
         		counter++;
         		stack.push(c);
         		q.enQueue(c);
-    		}
+    	}
   
-	}
+    }
 
 	int x =0;
 	for(int i = 0; i < counter; i++){
